@@ -3,3 +3,9 @@
 #### 4th Title
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+`CodingExample = True`
+
+``` Java
+String varStr = "My Name";
+```
